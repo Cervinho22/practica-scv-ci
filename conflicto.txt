@@ -1,1 +1,1 @@
-Cambio desde rama1
+Cambio conflictivo desde rama2
